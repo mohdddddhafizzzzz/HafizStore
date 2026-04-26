@@ -143,13 +143,13 @@ install_wallpaper() {
 
     <style>
         /* ======================================= */
-        /*   RENDZZ UNIQUE EDITION                */
+        /*   HAFIZ UNIQUE EDITION                */
         /*   Bukan Kotak Biasa!                  */
         /* ======================================= */
 
         /* BACKGROUND */
         body {
-            background: url('/rendzz/bg.jpg') no-repeat center center fixed !important;
+            background: url('/HafizStore/bg.jpg') no-repeat center center fixed !important;
             background-size: cover !important;
         }
 
