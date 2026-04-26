@@ -9,7 +9,7 @@ FOOTER_FILE="$PTERO_DIR/resources/views/templates/base/footer.blade.php"
 SERVER_FILE="$PTERO_DIR/resources/views/templates/base/server.blade.php"
 DASHBOARD_FILE="$PTERO_DIR/resources/scripts/components/dashboard/DashboardContainer.tsx"
 BACKUP_FILE="$PTERO_DIR/core.backup"
-WALLPAPER_DIR="$PTERO_DIR/public/rendzz"
+WALLPAPER_DIR="$PTERO_DIR/public/hafiz"
 WALLPAPER_FILE="$WALLPAPER_DIR/bg.jpg"
 
 # Warna
